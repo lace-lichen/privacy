@@ -30,4 +30,9 @@ If this policy changes, the updated version will be posted here with a new "last
 
 ## Contact
 
-If you have any questions, my personal website is oliviazoe.com & you can reach out to me there! 
+If you have any questions, my personal website is oliviazoe.com & you can reach out to me there or at hello@oliviazoe.com!
+
+## Support 
+
+For support or to leave feedback, contact me at hello@oliviazoe.com.
+
