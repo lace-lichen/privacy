@@ -1,16 +1,16 @@
 ---
-title: Privacy Policy – Trinkets
+title: Privacy Policy – Trinket Shelf
 ---
 
-# Privacy Policy for Trinkets
+# Privacy Policy for Trinket Shelf
 
 **Last updated: June 21, 2026**
 
-Trinkets is a personal app for collecting photos of small treasures on a digital shelf. This privacy policy explains how the app handles your data.
+Trinket Shelf is a personal app for collecting photos of small treasures on a digital shelf. This privacy policy explains how the app handles your data.
 
 ## Data Collection
 
-Trinkets does not collect analytics, run advertising, or operate its own accounts or servers. The app does not use crash reporting or analytics SDKs.
+Trinket Shelf does not collect analytics, run advertising, or operate its own accounts or servers. The app does not use crash reporting or analytics SDKs.
 
 ## Data Storage
 
@@ -20,15 +20,15 @@ A home screen widget reads a small snapshot of your shelf from shared on-device 
 
 ## Permissions
 
-Trinkets may request access to your camera and photo library solely so you can photograph or import trinkets. This media is saved to your device (and to your iCloud account if iCloud sync is enabled).
+Trinket Shelf may request access to your camera and photo library solely so you can photograph or import trinkets. This media is saved to your device (and to your iCloud account if iCloud sync is enabled).
 
 ## Third-Party Services
 
-Trinkets uses Apple system services, including on-device background removal via Apple Vision.
+Trinket Shelf uses Apple system services, including on-device background removal via Apple Vision.
 
 If you choose enhanced background removal, the app sends that photo to [remove.bg](https://www.remove.bg) to process the cutout. That upload only happens when you explicitly opt in. remove.bg's handling of that data is governed by their own privacy policy.
 
-Trinkets does not otherwise use third-party SDKs, analytics tools, advertising networks, or crash reporting services.
+Trinket Shelf does not otherwise use third-party SDKs, analytics tools, advertising networks, or crash reporting services.
 
 ## Changes to This Policy
 
